@@ -15,8 +15,7 @@ To run this project, the following software and libraries are required:
    - Open the `settings.yaml` file and add the following entries:
      ```yaml
      openai_chat: YOUR_OPENAI_CHAT_API_KEY
-     openai_embedding: YOUR_OPENAI_EMBEDDING_API_KEY
-     openai_api_base: YOUR_OPENAI_API_BASE
+     openai_embedding: YOUR_OPENAI_API_BASE
      ```
 
    - Generate the knowledge graph using the following command:
