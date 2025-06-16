@@ -16,15 +16,7 @@ register(
     entry_point='EduSim.Envs:KESASSISTEnv',
 )
 
-register(
-    id='KES-v3',
-    entry_point='EduSim.Envs:KESEnv',
-)
 
-register(
-    id='KES-v4',
-    entry_point='EduSim.Envs:KESMOOCCubeEnv',
-)
 
 
 
