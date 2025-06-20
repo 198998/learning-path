@@ -23,11 +23,11 @@ class DKT(Module):
 
     def forward(self, q, r):
         x = q
-        self.interaction_emb = Embedding(443, 256).to(device)
+        self.interaction_emb = Embedding(835, 256).to(device)
         xemb = self.interaction_emb(x)
         self.lstm_layer = LSTM(256, 256).to(device)
         self.dropout_layer = Dropout(0.1).to(device)
-        self.out_layer = Linear(256, 443).to(device)
+        self.out_layer = Linear(256, 835).to(device)
         h, _ = self.lstm_layer(xemb)
         h = self.dropout_layer(h)
         y = self.out_layer(h)
