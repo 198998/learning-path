@@ -1,0 +1,1770 @@
+{
+    "1": {
+        "knowledge": 1,
+        "difficulty": 0.40458015267175573
+    },
+    "2": {
+        "knowledge": 2,
+        "difficulty": 0.3834586466165414
+    },
+    "3": {
+        "knowledge": 3,
+        "difficulty": 0.3834586466165414
+    },
+    "4": {
+        "knowledge": 4,
+        "difficulty": 0.4461538461538461
+    },
+    "5": {
+        "knowledge": 5,
+        "difficulty": 0.296875
+    },
+    "6": {
+        "knowledge": 6,
+        "difficulty": 0.33333333333333337
+    },
+    "7": {
+        "knowledge": 7,
+        "difficulty": 0.2704918032786885
+    },
+    "8": {
+        "knowledge": 8,
+        "difficulty": 0.5714285714285714
+    },
+    "9": {
+        "knowledge": 9,
+        "difficulty": 0.5625
+    },
+    "10": {
+        "knowledge": 10,
+        "difficulty": 0.49590163934426235
+    },
+    "11": {
+        "knowledge": 11,
+        "difficulty": 0.467741935483871
+    },
+    "12": {
+        "knowledge": 12,
+        "difficulty": 0.3025210084033614
+    },
+    "13": {
+        "knowledge": 13,
+        "difficulty": 0.47540983606557374
+    },
+    "14": {
+        "knowledge": 14,
+        "difficulty": 0.47540983606557374
+    },
+    "164": {
+        "knowledge": 164,
+        "difficulty": 0.2702702702702703
+    },
+    "165": {
+        "knowledge": 165,
+        "difficulty": 0.2702702702702703
+    },
+    "166": {
+        "knowledge": 166,
+        "difficulty": 0.2134387351778656
+    },
+    "159": {
+        "knowledge": 159,
+        "difficulty": 0.31221719457013575
+    },
+    "167": {
+        "knowledge": 167,
+        "difficulty": 0.2432432432432432
+    },
+    "168": {
+        "knowledge": 168,
+        "difficulty": 0.19090909090909092
+    },
+    "233": {
+        "knowledge": 233,
+        "difficulty": 0.23863636363636365
+    },
+    "234": {
+        "knowledge": 234,
+        "difficulty": 0.2790697674418605
+    },
+    "235": {
+        "knowledge": 235,
+        "difficulty": 0.30454545454545456
+    },
+    "236": {
+        "knowledge": 236,
+        "difficulty": 0.20715630885122416
+    },
+    "160": {
+        "knowledge": 160,
+        "difficulty": 0.29648241206030146
+    },
+    "155": {
+        "knowledge": 155,
+        "difficulty": 0.2573913043478261
+    },
+    "237": {
+        "knowledge": 237,
+        "difficulty": 0.2359550561797753
+    },
+    "170": {
+        "knowledge": 170,
+        "difficulty": 0.28530259365994237
+    },
+    "238": {
+        "knowledge": 238,
+        "difficulty": 0.1954022988505747
+    },
+    "239": {
+        "knowledge": 239,
+        "difficulty": 0.1954022988505747
+    },
+    "240": {
+        "knowledge": 240,
+        "difficulty": 0.3977272727272727
+    },
+    "241": {
+        "knowledge": 241,
+        "difficulty": 0.18333333333333335
+    },
+    "242": {
+        "knowledge": 242,
+        "difficulty": 0.1512605042016807
+    },
+    "243": {
+        "knowledge": 243,
+        "difficulty": 0.2479338842975206
+    },
+    "244": {
+        "knowledge": 244,
+        "difficulty": 0.2666666666666667
+    },
+    "245": {
+        "knowledge": 245,
+        "difficulty": 0.2666666666666667
+    },
+    "181": {
+        "knowledge": 181,
+        "difficulty": 0.11475409836065575
+    },
+    "246": {
+        "knowledge": 246,
+        "difficulty": 0.06896551724137934
+    },
+    "180": {
+        "knowledge": 180,
+        "difficulty": 0.32432432432432434
+    },
+    "182": {
+        "knowledge": 182,
+        "difficulty": 0.360655737704918
+    },
+    "183": {
+        "knowledge": 183,
+        "difficulty": 0.360655737704918
+    },
+    "184": {
+        "knowledge": 184,
+        "difficulty": 0.2786885245901639
+    },
+    "185": {
+        "knowledge": 185,
+        "difficulty": 0.3278688524590164
+    },
+    "247": {
+        "knowledge": 247,
+        "difficulty": 0.23333333333333328
+    },
+    "248": {
+        "knowledge": 248,
+        "difficulty": 0.3220338983050848
+    },
+    "176": {
+        "knowledge": 176,
+        "difficulty": 0.3728813559322034
+    },
+    "249": {
+        "knowledge": 249,
+        "difficulty": 0.3220338983050848
+    },
+    "169": {
+        "knowledge": 169,
+        "difficulty": 0.46218487394957986
+    },
+    "171": {
+        "knowledge": 171,
+        "difficulty": 0.3755274261603375
+    },
+    "172": {
+        "knowledge": 172,
+        "difficulty": 0.3666666666666667
+    },
+    "173": {
+        "knowledge": 173,
+        "difficulty": 0.3931623931623932
+    },
+    "174": {
+        "knowledge": 174,
+        "difficulty": 0.3931623931623932
+    },
+    "175": {
+        "knowledge": 175,
+        "difficulty": 0.4576271186440678
+    },
+    "156": {
+        "knowledge": 156,
+        "difficulty": 0.15233415233415237
+    },
+    "177": {
+        "knowledge": 177,
+        "difficulty": 0.3904109589041096
+    },
+    "178": {
+        "knowledge": 178,
+        "difficulty": 0.4027777777777778
+    },
+    "179": {
+        "knowledge": 179,
+        "difficulty": 0.1875
+    },
+    "154": {
+        "knowledge": 154,
+        "difficulty": 0.13043478260869568
+    },
+    "157": {
+        "knowledge": 157,
+        "difficulty": 0.18385650224215244
+    },
+    "158": {
+        "knowledge": 158,
+        "difficulty": 0.18401206636500755
+    },
+    "161": {
+        "knowledge": 161,
+        "difficulty": 0.2813918305597579
+    },
+    "162": {
+        "knowledge": 162,
+        "difficulty": 0.24545454545454548
+    },
+    "163": {
+        "knowledge": 163,
+        "difficulty": 0.33944954128440363
+    },
+    "15": {
+        "knowledge": 15,
+        "difficulty": 0.48360655737704916
+    },
+    "16": {
+        "knowledge": 16,
+        "difficulty": 0.37606837606837606
+    },
+    "17": {
+        "knowledge": 17,
+        "difficulty": 0.37606837606837606
+    },
+    "18": {
+        "knowledge": 18,
+        "difficulty": 0.575
+    },
+    "19": {
+        "knowledge": 19,
+        "difficulty": 0.6134453781512605
+    },
+    "20": {
+        "knowledge": 20,
+        "difficulty": 0.5798319327731092
+    },
+    "21": {
+        "knowledge": 21,
+        "difficulty": 0.575
+    },
+    "22": {
+        "knowledge": 22,
+        "difficulty": 0.5491803278688525
+    },
+    "23": {
+        "knowledge": 23,
+        "difficulty": 0.13297872340425532
+    },
+    "24": {
+        "knowledge": 24,
+        "difficulty": 0.21578947368421053
+    },
+    "25": {
+        "knowledge": 25,
+        "difficulty": 0.21578947368421053
+    },
+    "26": {
+        "knowledge": 26,
+        "difficulty": 0.21578947368421053
+    },
+    "27": {
+        "knowledge": 27,
+        "difficulty": 0.21578947368421053
+    },
+    "28": {
+        "knowledge": 28,
+        "difficulty": 0.21578947368421053
+    },
+    "29": {
+        "knowledge": 29,
+        "difficulty": 0.37234042553191493
+    },
+    "30": {
+        "knowledge": 30,
+        "difficulty": 0.37234042553191493
+    },
+    "37": {
+        "knowledge": 37,
+        "difficulty": 1.0
+    },
+    "38": {
+        "knowledge": 38,
+        "difficulty": 1.0
+    },
+    "33": {
+        "knowledge": 33,
+        "difficulty": 0.1228070175438597
+    },
+    "34": {
+        "knowledge": 34,
+        "difficulty": 0.14832535885167464
+    },
+    "35": {
+        "knowledge": 35,
+        "difficulty": 0.19565217391304346
+    },
+    "36": {
+        "knowledge": 36,
+        "difficulty": 0.05882352941176472
+    },
+    "32": {
+        "knowledge": 32,
+        "difficulty": 0.34782608695652173
+    },
+    "142": {
+        "knowledge": 142,
+        "difficulty": 0.05555555555555558
+    },
+    "39": {
+        "knowledge": 39,
+        "difficulty": 0.6521739130434783
+    },
+    "40": {
+        "knowledge": 40,
+        "difficulty": 0.6521739130434783
+    },
+    "209": {
+        "knowledge": 209,
+        "difficulty": 0.19999999999999996
+    },
+    "205": {
+        "knowledge": 205,
+        "difficulty": 0.6
+    },
+    "206": {
+        "knowledge": 206,
+        "difficulty": 0.1875
+    },
+    "210": {
+        "knowledge": 210,
+        "difficulty": 0.19999999999999996
+    },
+    "211": {
+        "knowledge": 211,
+        "difficulty": 0.19999999999999996
+    },
+    "207": {
+        "knowledge": 207,
+        "difficulty": 0.06666666666666665
+    },
+    "212": {
+        "knowledge": 212,
+        "difficulty": 0.0
+    },
+    "213": {
+        "knowledge": 213,
+        "difficulty": 0.3666666666666667
+    },
+    "214": {
+        "knowledge": 214,
+        "difficulty": 0.19999999999999996
+    },
+    "215": {
+        "knowledge": 215,
+        "difficulty": 0.33333333333333337
+    },
+    "139": {
+        "knowledge": 139,
+        "difficulty": 0.10526315789473684
+    },
+    "128": {
+        "knowledge": 128,
+        "difficulty": 0.2517006802721088
+    },
+    "129": {
+        "knowledge": 129,
+        "difficulty": 0.09999999999999998
+    },
+    "140": {
+        "knowledge": 140,
+        "difficulty": 0.04109589041095896
+    },
+    "138": {
+        "knowledge": 138,
+        "difficulty": 0.05940594059405946
+    },
+    "131": {
+        "knowledge": 131,
+        "difficulty": 0.09999999999999998
+    },
+    "141": {
+        "knowledge": 141,
+        "difficulty": 0.05882352941176472
+    },
+    "130": {
+        "knowledge": 130,
+        "difficulty": 0.0892857142857143
+    },
+    "127": {
+        "knowledge": 127,
+        "difficulty": 0.27586206896551724
+    },
+    "143": {
+        "knowledge": 143,
+        "difficulty": 0.3571428571428571
+    },
+    "124": {
+        "knowledge": 124,
+        "difficulty": 0.25806451612903225
+    },
+    "144": {
+        "knowledge": 144,
+        "difficulty": 0.0
+    },
+    "145": {
+        "knowledge": 145,
+        "difficulty": 0.0
+    },
+    "107": {
+        "knowledge": 107,
+        "difficulty": 0.0
+    },
+    "108": {
+        "knowledge": 108,
+        "difficulty": 0.375
+    },
+    "109": {
+        "knowledge": 109,
+        "difficulty": 0.25
+    },
+    "110": {
+        "knowledge": 110,
+        "difficulty": 0.5555555555555556
+    },
+    "111": {
+        "knowledge": 111,
+        "difficulty": 0.30000000000000004
+    },
+    "112": {
+        "knowledge": 112,
+        "difficulty": 0.30000000000000004
+    },
+    "113": {
+        "knowledge": 113,
+        "difficulty": 0.33333333333333337
+    },
+    "114": {
+        "knowledge": 114,
+        "difficulty": 0.11111111111111116
+    },
+    "115": {
+        "knowledge": 115,
+        "difficulty": 0.9
+    },
+    "116": {
+        "knowledge": 116,
+        "difficulty": 1.0
+    },
+    "117": {
+        "knowledge": 117,
+        "difficulty": 0.11111111111111116
+    },
+    "118": {
+        "knowledge": 118,
+        "difficulty": 0.5555555555555556
+    },
+    "119": {
+        "knowledge": 119,
+        "difficulty": 0.23076923076923073
+    },
+    "120": {
+        "knowledge": 120,
+        "difficulty": 0.33333333333333337
+    },
+    "121": {
+        "knowledge": 121,
+        "difficulty": 0.5555555555555556
+    },
+    "146": {
+        "knowledge": 146,
+        "difficulty": 0.16666666666666663
+    },
+    "147": {
+        "knowledge": 147,
+        "difficulty": 0.30000000000000004
+    },
+    "148": {
+        "knowledge": 148,
+        "difficulty": 0.30000000000000004
+    },
+    "149": {
+        "knowledge": 149,
+        "difficulty": 0.30000000000000004
+    },
+    "122": {
+        "knowledge": 122,
+        "difficulty": 0.0
+    },
+    "123": {
+        "knowledge": 123,
+        "difficulty": 0.0
+    },
+    "125": {
+        "knowledge": 125,
+        "difficulty": 0.0
+    },
+    "126": {
+        "knowledge": 126,
+        "difficulty": 0.16666666666666663
+    },
+    "132": {
+        "knowledge": 132,
+        "difficulty": 0.19999999999999996
+    },
+    "133": {
+        "knowledge": 133,
+        "difficulty": 0.19999999999999996
+    },
+    "134": {
+        "knowledge": 134,
+        "difficulty": 0.11111111111111116
+    },
+    "135": {
+        "knowledge": 135,
+        "difficulty": 0.0714285714285714
+    },
+    "136": {
+        "knowledge": 136,
+        "difficulty": 0.0
+    },
+    "137": {
+        "knowledge": 137,
+        "difficulty": 0.0
+    },
+    "31": {
+        "knowledge": 31,
+        "difficulty": 0.5555555555555556
+    },
+    "320": {
+        "knowledge": 320,
+        "difficulty": 0.08823529411764708
+    },
+    "321": {
+        "knowledge": 321,
+        "difficulty": 0.4285714285714286
+    },
+    "322": {
+        "knowledge": 322,
+        "difficulty": 0.1428571428571429
+    },
+    "323": {
+        "knowledge": 323,
+        "difficulty": 0.0
+    },
+    "324": {
+        "knowledge": 324,
+        "difficulty": 1.0
+    },
+    "325": {
+        "knowledge": 325,
+        "difficulty": 0.4
+    },
+    "326": {
+        "knowledge": 326,
+        "difficulty": 0.4
+    },
+    "327": {
+        "knowledge": 327,
+        "difficulty": 0.4
+    },
+    "328": {
+        "knowledge": 328,
+        "difficulty": 0.09999999999999998
+    },
+    "329": {
+        "knowledge": 329,
+        "difficulty": 0.19999999999999996
+    },
+    "330": {
+        "knowledge": 330,
+        "difficulty": 0.4
+    },
+    "331": {
+        "knowledge": 331,
+        "difficulty": 0.19999999999999996
+    },
+    "332": {
+        "knowledge": 332,
+        "difficulty": 0.19999999999999996
+    },
+    "333": {
+        "knowledge": 333,
+        "difficulty": 0.0
+    },
+    "334": {
+        "knowledge": 334,
+        "difficulty": 0.0
+    },
+    "335": {
+        "knowledge": 335,
+        "difficulty": 0.033333333333333326
+    },
+    "336": {
+        "knowledge": 336,
+        "difficulty": 0.033333333333333326
+    },
+    "337": {
+        "knowledge": 337,
+        "difficulty": 0.0
+    },
+    "338": {
+        "knowledge": 338,
+        "difficulty": 0.0
+    },
+    "219": {
+        "knowledge": 219,
+        "difficulty": 0.19047619047619047
+    },
+    "339": {
+        "knowledge": 339,
+        "difficulty": 0.0
+    },
+    "340": {
+        "knowledge": 340,
+        "difficulty": 0.0
+    },
+    "341": {
+        "knowledge": 341,
+        "difficulty": 0.19999999999999996
+    },
+    "342": {
+        "knowledge": 342,
+        "difficulty": 0.0
+    },
+    "343": {
+        "knowledge": 343,
+        "difficulty": 0.0
+    },
+    "344": {
+        "knowledge": 344,
+        "difficulty": 0.0
+    },
+    "345": {
+        "knowledge": 345,
+        "difficulty": 0.040000000000000036
+    },
+    "346": {
+        "knowledge": 346,
+        "difficulty": 0.4285714285714286
+    },
+    "347": {
+        "knowledge": 347,
+        "difficulty": 0.19999999999999996
+    },
+    "348": {
+        "knowledge": 348,
+        "difficulty": 0.0
+    },
+    "349": {
+        "knowledge": 349,
+        "difficulty": 0.0
+    },
+    "350": {
+        "knowledge": 350,
+        "difficulty": 0.19999999999999996
+    },
+    "351": {
+        "knowledge": 351,
+        "difficulty": 0.8
+    },
+    "352": {
+        "knowledge": 352,
+        "difficulty": 0.0
+    },
+    "353": {
+        "knowledge": 353,
+        "difficulty": 0.0
+    },
+    "354": {
+        "knowledge": 354,
+        "difficulty": 0.0
+    },
+    "355": {
+        "knowledge": 355,
+        "difficulty": 0.0
+    },
+    "356": {
+        "knowledge": 356,
+        "difficulty": 0.0
+    },
+    "357": {
+        "knowledge": 357,
+        "difficulty": 0.0
+    },
+    "358": {
+        "knowledge": 358,
+        "difficulty": 0.0
+    },
+    "359": {
+        "knowledge": 359,
+        "difficulty": 0.0
+    },
+    "360": {
+        "knowledge": 360,
+        "difficulty": 0.12
+    },
+    "361": {
+        "knowledge": 361,
+        "difficulty": 0.0
+    },
+    "362": {
+        "knowledge": 362,
+        "difficulty": 0.0
+    },
+    "363": {
+        "knowledge": 363,
+        "difficulty": 0.0
+    },
+    "364": {
+        "knowledge": 364,
+        "difficulty": 0.0
+    },
+    "365": {
+        "knowledge": 365,
+        "difficulty": 0.09999999999999998
+    },
+    "366": {
+        "knowledge": 366,
+        "difficulty": 0.0
+    },
+    "367": {
+        "knowledge": 367,
+        "difficulty": 0.0
+    },
+    "106": {
+        "knowledge": 106,
+        "difficulty": 0.5
+    },
+    "406": {
+        "knowledge": 406,
+        "difficulty": 0.0
+    },
+    "407": {
+        "knowledge": 407,
+        "difficulty": 0.6666666666666667
+    },
+    "408": {
+        "knowledge": 408,
+        "difficulty": 1.0
+    },
+    "409": {
+        "knowledge": 409,
+        "difficulty": 0.0
+    },
+    "49": {
+        "knowledge": 49,
+        "difficulty": 0.6666666666666667
+    },
+    "410": {
+        "knowledge": 410,
+        "difficulty": 1.0
+    },
+    "411": {
+        "knowledge": 411,
+        "difficulty": 1.0
+    },
+    "412": {
+        "knowledge": 412,
+        "difficulty": 0.0
+    },
+    "50": {
+        "knowledge": 50,
+        "difficulty": 0.75
+    },
+    "413": {
+        "knowledge": 413,
+        "difficulty": 1.0
+    },
+    "414": {
+        "knowledge": 414,
+        "difficulty": 1.0
+    },
+    "415": {
+        "knowledge": 415,
+        "difficulty": 1.0
+    },
+    "416": {
+        "knowledge": 416,
+        "difficulty": 0.5
+    },
+    "417": {
+        "knowledge": 417,
+        "difficulty": 0.6666666666666667
+    },
+    "418": {
+        "knowledge": 418,
+        "difficulty": 1.0
+    },
+    "419": {
+        "knowledge": 419,
+        "difficulty": 0.5
+    },
+    "420": {
+        "knowledge": 420,
+        "difficulty": 1.0
+    },
+    "421": {
+        "knowledge": 421,
+        "difficulty": 1.0
+    },
+    "43": {
+        "knowledge": 43,
+        "difficulty": 0.5
+    },
+    "422": {
+        "knowledge": 422,
+        "difficulty": 1.0
+    },
+    "368": {
+        "knowledge": 368,
+        "difficulty": 0.4
+    },
+    "372": {
+        "knowledge": 372,
+        "difficulty": 0.75
+    },
+    "250": {
+        "knowledge": 250,
+        "difficulty": 0.4
+    },
+    "386": {
+        "knowledge": 386,
+        "difficulty": 0.625
+    },
+    "394": {
+        "knowledge": 394,
+        "difficulty": 1.0
+    },
+    "423": {
+        "knowledge": 423,
+        "difficulty": 0.25
+    },
+    "424": {
+        "knowledge": 424,
+        "difficulty": 0.5
+    },
+    "401": {
+        "knowledge": 401,
+        "difficulty": 0.625
+    },
+    "425": {
+        "knowledge": 425,
+        "difficulty": 0.0
+    },
+    "150": {
+        "knowledge": 150,
+        "difficulty": 0.5
+    },
+    "381": {
+        "knowledge": 381,
+        "difficulty": 0.5
+    },
+    "382": {
+        "knowledge": 382,
+        "difficulty": 0.33333333333333337
+    },
+    "426": {
+        "knowledge": 426,
+        "difficulty": 1.0
+    },
+    "427": {
+        "knowledge": 427,
+        "difficulty": 1.0
+    },
+    "428": {
+        "knowledge": 428,
+        "difficulty": 0.5
+    },
+    "388": {
+        "knowledge": 388,
+        "difficulty": 0.25
+    },
+    "395": {
+        "knowledge": 395,
+        "difficulty": 0.5
+    },
+    "429": {
+        "knowledge": 429,
+        "difficulty": 1.0
+    },
+    "430": {
+        "knowledge": 430,
+        "difficulty": 0.75
+    },
+    "431": {
+        "knowledge": 431,
+        "difficulty": 1.0
+    },
+    "377": {
+        "knowledge": 377,
+        "difficulty": 0.0
+    },
+    "378": {
+        "knowledge": 378,
+        "difficulty": 0.5
+    },
+    "379": {
+        "knowledge": 379,
+        "difficulty": 0.5
+    },
+    "380": {
+        "knowledge": 380,
+        "difficulty": 0.5
+    },
+    "383": {
+        "knowledge": 383,
+        "difficulty": 0.6666666666666667
+    },
+    "384": {
+        "knowledge": 384,
+        "difficulty": 0.6666666666666667
+    },
+    "100": {
+        "knowledge": 100,
+        "difficulty": 0.5
+    },
+    "385": {
+        "knowledge": 385,
+        "difficulty": 0.33333333333333337
+    },
+    "387": {
+        "knowledge": 387,
+        "difficulty": 0.0
+    },
+    "389": {
+        "knowledge": 389,
+        "difficulty": 1.0
+    },
+    "390": {
+        "knowledge": 390,
+        "difficulty": 1.0
+    },
+    "391": {
+        "knowledge": 391,
+        "difficulty": 0.5
+    },
+    "432": {
+        "knowledge": 432,
+        "difficulty": 1.0
+    },
+    "433": {
+        "knowledge": 433,
+        "difficulty": 1.0
+    },
+    "434": {
+        "knowledge": 434,
+        "difficulty": 0.0
+    },
+    "435": {
+        "knowledge": 435,
+        "difficulty": 0.0
+    },
+    "376": {
+        "knowledge": 376,
+        "difficulty": 0.5714285714285714
+    },
+    "392": {
+        "knowledge": 392,
+        "difficulty": 0.9
+    },
+    "98": {
+        "knowledge": 98,
+        "difficulty": 0.6666666666666667
+    },
+    "393": {
+        "knowledge": 393,
+        "difficulty": 0.6666666666666667
+    },
+    "373": {
+        "knowledge": 373,
+        "difficulty": 0.5
+    },
+    "374": {
+        "knowledge": 374,
+        "difficulty": 0.5
+    },
+    "375": {
+        "knowledge": 375,
+        "difficulty": 1.0
+    },
+    "436": {
+        "knowledge": 436,
+        "difficulty": 1.0
+    },
+    "437": {
+        "knowledge": 437,
+        "difficulty": 1.0
+    },
+    "438": {
+        "knowledge": 438,
+        "difficulty": 1.0
+    },
+    "439": {
+        "knowledge": 439,
+        "difficulty": 0.0
+    },
+    "440": {
+        "knowledge": 440,
+        "difficulty": 0.0
+    },
+    "441": {
+        "knowledge": 441,
+        "difficulty": 1.0
+    },
+    "442": {
+        "knowledge": 442,
+        "difficulty": 1.0
+    },
+    "41": {
+        "knowledge": 41,
+        "difficulty": 0.0
+    },
+    "42": {
+        "knowledge": 42,
+        "difficulty": 0.5
+    },
+    "44": {
+        "knowledge": 44,
+        "difficulty": 0.11111111111111116
+    },
+    "45": {
+        "knowledge": 45,
+        "difficulty": 1.0
+    },
+    "46": {
+        "knowledge": 46,
+        "difficulty": 0.5
+    },
+    "47": {
+        "knowledge": 47,
+        "difficulty": 0.33333333333333337
+    },
+    "48": {
+        "knowledge": 48,
+        "difficulty": 1.0
+    },
+    "51": {
+        "knowledge": 51,
+        "difficulty": 1.0
+    },
+    "52": {
+        "knowledge": 52,
+        "difficulty": 0.4
+    },
+    "53": {
+        "knowledge": 53,
+        "difficulty": 1.0
+    },
+    "54": {
+        "knowledge": 54,
+        "difficulty": 1.0
+    },
+    "55": {
+        "knowledge": 55,
+        "difficulty": 1.0
+    },
+    "56": {
+        "knowledge": 56,
+        "difficulty": 1.0
+    },
+    "57": {
+        "knowledge": 57,
+        "difficulty": 0.5
+    },
+    "58": {
+        "knowledge": 58,
+        "difficulty": 0.0
+    },
+    "59": {
+        "knowledge": 59,
+        "difficulty": 0.0
+    },
+    "60": {
+        "knowledge": 60,
+        "difficulty": 0.0
+    },
+    "61": {
+        "knowledge": 61,
+        "difficulty": 0.0
+    },
+    "62": {
+        "knowledge": 62,
+        "difficulty": 0.0
+    },
+    "63": {
+        "knowledge": 63,
+        "difficulty": 0.0
+    },
+    "64": {
+        "knowledge": 64,
+        "difficulty": 1.0
+    },
+    "65": {
+        "knowledge": 65,
+        "difficulty": 0.0
+    },
+    "66": {
+        "knowledge": 66,
+        "difficulty": 1.0
+    },
+    "67": {
+        "knowledge": 67,
+        "difficulty": 1.0
+    },
+    "68": {
+        "knowledge": 68,
+        "difficulty": 1.0
+    },
+    "69": {
+        "knowledge": 69,
+        "difficulty": 1.0
+    },
+    "70": {
+        "knowledge": 70,
+        "difficulty": 0.0
+    },
+    "71": {
+        "knowledge": 71,
+        "difficulty": 0.0
+    },
+    "72": {
+        "knowledge": 72,
+        "difficulty": 0.0
+    },
+    "73": {
+        "knowledge": 73,
+        "difficulty": 0.0
+    },
+    "74": {
+        "knowledge": 74,
+        "difficulty": 0.0
+    },
+    "75": {
+        "knowledge": 75,
+        "difficulty": 0.0
+    },
+    "76": {
+        "knowledge": 76,
+        "difficulty": 0.0
+    },
+    "77": {
+        "knowledge": 77,
+        "difficulty": 0.5
+    },
+    "78": {
+        "knowledge": 78,
+        "difficulty": 1.0
+    },
+    "79": {
+        "knowledge": 79,
+        "difficulty": 0.0
+    },
+    "80": {
+        "knowledge": 80,
+        "difficulty": 0.0
+    },
+    "81": {
+        "knowledge": 81,
+        "difficulty": 0.0
+    },
+    "82": {
+        "knowledge": 82,
+        "difficulty": 0.0
+    },
+    "83": {
+        "knowledge": 83,
+        "difficulty": 0.0
+    },
+    "84": {
+        "knowledge": 84,
+        "difficulty": 0.0
+    },
+    "85": {
+        "knowledge": 85,
+        "difficulty": 0.5
+    },
+    "86": {
+        "knowledge": 86,
+        "difficulty": 0.5
+    },
+    "87": {
+        "knowledge": 87,
+        "difficulty": 1.0
+    },
+    "88": {
+        "knowledge": 88,
+        "difficulty": 1.0
+    },
+    "89": {
+        "knowledge": 89,
+        "difficulty": 1.0
+    },
+    "90": {
+        "knowledge": 90,
+        "difficulty": 0.0
+    },
+    "91": {
+        "knowledge": 91,
+        "difficulty": 1.0
+    },
+    "92": {
+        "knowledge": 92,
+        "difficulty": 0.0
+    },
+    "93": {
+        "knowledge": 93,
+        "difficulty": 0.5
+    },
+    "94": {
+        "knowledge": 94,
+        "difficulty": 1.0
+    },
+    "95": {
+        "knowledge": 95,
+        "difficulty": 1.0
+    },
+    "96": {
+        "knowledge": 96,
+        "difficulty": 1.0
+    },
+    "97": {
+        "knowledge": 97,
+        "difficulty": 1.0
+    },
+    "99": {
+        "knowledge": 99,
+        "difficulty": 0.8333333333333334
+    },
+    "101": {
+        "knowledge": 101,
+        "difficulty": 0.0
+    },
+    "102": {
+        "knowledge": 102,
+        "difficulty": 0.0
+    },
+    "103": {
+        "knowledge": 103,
+        "difficulty": 0.0
+    },
+    "104": {
+        "knowledge": 104,
+        "difficulty": 0.0
+    },
+    "105": {
+        "knowledge": 105,
+        "difficulty": 0.0
+    },
+    "151": {
+        "knowledge": 151,
+        "difficulty": 1.0
+    },
+    "152": {
+        "knowledge": 152,
+        "difficulty": 0.0
+    },
+    "153": {
+        "knowledge": 153,
+        "difficulty": 0.0
+    },
+    "186": {
+        "knowledge": 186,
+        "difficulty": 1.0
+    },
+    "187": {
+        "knowledge": 187,
+        "difficulty": 1.0
+    },
+    "188": {
+        "knowledge": 188,
+        "difficulty": 1.0
+    },
+    "189": {
+        "knowledge": 189,
+        "difficulty": 1.0
+    },
+    "190": {
+        "knowledge": 190,
+        "difficulty": 1.0
+    },
+    "191": {
+        "knowledge": 191,
+        "difficulty": 1.0
+    },
+    "192": {
+        "knowledge": 192,
+        "difficulty": 1.0
+    },
+    "193": {
+        "knowledge": 193,
+        "difficulty": 1.0
+    },
+    "194": {
+        "knowledge": 194,
+        "difficulty": 1.0
+    },
+    "195": {
+        "knowledge": 195,
+        "difficulty": 1.0
+    },
+    "196": {
+        "knowledge": 196,
+        "difficulty": 1.0
+    },
+    "197": {
+        "knowledge": 197,
+        "difficulty": 0.0
+    },
+    "198": {
+        "knowledge": 198,
+        "difficulty": 1.0
+    },
+    "199": {
+        "knowledge": 199,
+        "difficulty": 1.0
+    },
+    "200": {
+        "knowledge": 200,
+        "difficulty": 1.0
+    },
+    "201": {
+        "knowledge": 201,
+        "difficulty": 0.0
+    },
+    "202": {
+        "knowledge": 202,
+        "difficulty": 0.0
+    },
+    "203": {
+        "knowledge": 203,
+        "difficulty": 0.0
+    },
+    "204": {
+        "knowledge": 204,
+        "difficulty": 1.0
+    },
+    "208": {
+        "knowledge": 208,
+        "difficulty": 0.0
+    },
+    "216": {
+        "knowledge": 216,
+        "difficulty": 1.0
+    },
+    "217": {
+        "knowledge": 217,
+        "difficulty": 1.0
+    },
+    "218": {
+        "knowledge": 218,
+        "difficulty": 0.7142857142857143
+    },
+    "220": {
+        "knowledge": 220,
+        "difficulty": 0.19999999999999996
+    },
+    "221": {
+        "knowledge": 221,
+        "difficulty": 0.0
+    },
+    "222": {
+        "knowledge": 222,
+        "difficulty": 0.0
+    },
+    "223": {
+        "knowledge": 223,
+        "difficulty": 0.0
+    },
+    "224": {
+        "knowledge": 224,
+        "difficulty": 0.19999999999999996
+    },
+    "225": {
+        "knowledge": 225,
+        "difficulty": 0.0
+    },
+    "226": {
+        "knowledge": 226,
+        "difficulty": 0.0
+    },
+    "227": {
+        "knowledge": 227,
+        "difficulty": 0.0
+    },
+    "228": {
+        "knowledge": 228,
+        "difficulty": 0.0
+    },
+    "229": {
+        "knowledge": 229,
+        "difficulty": 0.0
+    },
+    "230": {
+        "knowledge": 230,
+        "difficulty": 0.0
+    },
+    "231": {
+        "knowledge": 231,
+        "difficulty": 0.0
+    },
+    "232": {
+        "knowledge": 232,
+        "difficulty": 0.0
+    },
+    "251": {
+        "knowledge": 251,
+        "difficulty": 1.0
+    },
+    "252": {
+        "knowledge": 252,
+        "difficulty": 1.0
+    },
+    "253": {
+        "knowledge": 253,
+        "difficulty": 0.0
+    },
+    "254": {
+        "knowledge": 254,
+        "difficulty": 0.0
+    },
+    "255": {
+        "knowledge": 255,
+        "difficulty": 0.0
+    },
+    "256": {
+        "knowledge": 256,
+        "difficulty": 0.0
+    },
+    "257": {
+        "knowledge": 257,
+        "difficulty": 0.0
+    },
+    "258": {
+        "knowledge": 258,
+        "difficulty": 0.5
+    },
+    "259": {
+        "knowledge": 259,
+        "difficulty": 0.0
+    },
+    "260": {
+        "knowledge": 260,
+        "difficulty": 0.0
+    },
+    "261": {
+        "knowledge": 261,
+        "difficulty": 0.0
+    },
+    "262": {
+        "knowledge": 262,
+        "difficulty": 0.0
+    },
+    "263": {
+        "knowledge": 263,
+        "difficulty": 0.0
+    },
+    "264": {
+        "knowledge": 264,
+        "difficulty": 0.6666666666666667
+    },
+    "265": {
+        "knowledge": 265,
+        "difficulty": 1.0
+    },
+    "266": {
+        "knowledge": 266,
+        "difficulty": 1.0
+    },
+    "267": {
+        "knowledge": 267,
+        "difficulty": 0.0
+    },
+    "268": {
+        "knowledge": 268,
+        "difficulty": 0.5
+    },
+    "269": {
+        "knowledge": 269,
+        "difficulty": 1.0
+    },
+    "270": {
+        "knowledge": 270,
+        "difficulty": 0.0
+    },
+    "271": {
+        "knowledge": 271,
+        "difficulty": 0.19999999999999996
+    },
+    "272": {
+        "knowledge": 272,
+        "difficulty": 0.25
+    },
+    "273": {
+        "knowledge": 273,
+        "difficulty": 0.0
+    },
+    "274": {
+        "knowledge": 274,
+        "difficulty": 1.0
+    },
+    "275": {
+        "knowledge": 275,
+        "difficulty": 0.2857142857142857
+    },
+    "276": {
+        "knowledge": 276,
+        "difficulty": 1.0
+    },
+    "277": {
+        "knowledge": 277,
+        "difficulty": 0.0
+    },
+    "278": {
+        "knowledge": 278,
+        "difficulty": 0.0
+    },
+    "279": {
+        "knowledge": 279,
+        "difficulty": 0.0
+    },
+    "280": {
+        "knowledge": 280,
+        "difficulty": 0.0
+    },
+    "281": {
+        "knowledge": 281,
+        "difficulty": 0.0
+    },
+    "282": {
+        "knowledge": 282,
+        "difficulty": 0.0
+    },
+    "283": {
+        "knowledge": 283,
+        "difficulty": 1.0
+    },
+    "284": {
+        "knowledge": 284,
+        "difficulty": 0.0
+    },
+    "285": {
+        "knowledge": 285,
+        "difficulty": 0.0
+    },
+    "286": {
+        "knowledge": 286,
+        "difficulty": 1.0
+    },
+    "287": {
+        "knowledge": 287,
+        "difficulty": 0.0
+    },
+    "288": {
+        "knowledge": 288,
+        "difficulty": 0.0
+    },
+    "289": {
+        "knowledge": 289,
+        "difficulty": 0.0
+    },
+    "290": {
+        "knowledge": 290,
+        "difficulty": 0.0
+    },
+    "291": {
+        "knowledge": 291,
+        "difficulty": 0.0
+    },
+    "292": {
+        "knowledge": 292,
+        "difficulty": 0.0
+    },
+    "293": {
+        "knowledge": 293,
+        "difficulty": 1.0
+    },
+    "294": {
+        "knowledge": 294,
+        "difficulty": 1.0
+    },
+    "295": {
+        "knowledge": 295,
+        "difficulty": 0.0
+    },
+    "296": {
+        "knowledge": 296,
+        "difficulty": 1.0
+    },
+    "297": {
+        "knowledge": 297,
+        "difficulty": 0.5
+    },
+    "298": {
+        "knowledge": 298,
+        "difficulty": 0.0
+    },
+    "299": {
+        "knowledge": 299,
+        "difficulty": 0.0
+    },
+    "300": {
+        "knowledge": 300,
+        "difficulty": 0.0
+    },
+    "301": {
+        "knowledge": 301,
+        "difficulty": 1.0
+    },
+    "302": {
+        "knowledge": 302,
+        "difficulty": 0.0
+    },
+    "303": {
+        "knowledge": 303,
+        "difficulty": 0.0
+    },
+    "304": {
+        "knowledge": 304,
+        "difficulty": 0.0
+    },
+    "305": {
+        "knowledge": 305,
+        "difficulty": 0.0
+    },
+    "306": {
+        "knowledge": 306,
+        "difficulty": 0.0
+    },
+    "307": {
+        "knowledge": 307,
+        "difficulty": 0.0
+    },
+    "308": {
+        "knowledge": 308,
+        "difficulty": 0.0
+    },
+    "309": {
+        "knowledge": 309,
+        "difficulty": 0.0
+    },
+    "310": {
+        "knowledge": 310,
+        "difficulty": 0.0
+    },
+    "311": {
+        "knowledge": 311,
+        "difficulty": 0.0
+    },
+    "312": {
+        "knowledge": 312,
+        "difficulty": 1.0
+    },
+    "313": {
+        "knowledge": 313,
+        "difficulty": 0.0
+    },
+    "314": {
+        "knowledge": 314,
+        "difficulty": 0.5
+    },
+    "315": {
+        "knowledge": 315,
+        "difficulty": 0.5
+    },
+    "316": {
+        "knowledge": 316,
+        "difficulty": 0.5
+    },
+    "317": {
+        "knowledge": 317,
+        "difficulty": 1.0
+    },
+    "318": {
+        "knowledge": 318,
+        "difficulty": 0.0
+    },
+    "319": {
+        "knowledge": 319,
+        "difficulty": 0.5
+    },
+    "369": {
+        "knowledge": 369,
+        "difficulty": 0.33333333333333337
+    },
+    "370": {
+        "knowledge": 370,
+        "difficulty": 0.33333333333333337
+    },
+    "371": {
+        "knowledge": 371,
+        "difficulty": 0.33333333333333337
+    },
+    "396": {
+        "knowledge": 396,
+        "difficulty": 0.0
+    },
+    "397": {
+        "knowledge": 397,
+        "difficulty": 0.0
+    },
+    "398": {
+        "knowledge": 398,
+        "difficulty": 0.0
+    },
+    "399": {
+        "knowledge": 399,
+        "difficulty": 1.0
+    },
+    "400": {
+        "knowledge": 400,
+        "difficulty": 1.0
+    },
+    "402": {
+        "knowledge": 402,
+        "difficulty": 1.0
+    },
+    "403": {
+        "knowledge": 403,
+        "difficulty": 0.0
+    },
+    "404": {
+        "knowledge": 404,
+        "difficulty": 1.0
+    },
+    "405": {
+        "knowledge": 405,
+        "difficulty": 0.0
+    }
+}
