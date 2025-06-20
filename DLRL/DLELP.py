@@ -33,74 +33,19 @@ def train(env, Pre_agent, Sim_agent, Dif_agent, max_episode_num, batch_size, act
     L_max_steps = 20
 
 
-    df_concept_name = pd.read_csv('./data/selected_concept_name.csv')
-    df_test = pd.read_csv('./data/test.csv')
+    data_path = './data/junyi/dataRec'
+    with open(data_path, 'r', encoding="utf-8") as f:
+        datatxt = f.readlines()
 
-    concept_df = pd.read_csv('./data/concept_id.csv', header=None, names=['concept', 'id', 'problem_id'], encoding='utf-8')
-    concept_df['concept_lower'] = concept_df['concept'].str.lower()
+    graph_path = './data/junyi/prerequisite2.json'
+    with open(graph_path, 'r') as file:
+        edges = json.load(file)
 
-    df = pd.read_csv('./data/knowledge_structure.csv')
     Know_G = nx.DiGraph()
-
-
-    edges = list(zip(df['source'], df['target']))
     Know_G.add_edges_from(edges)
-
-    with open('./data/concept_difficulty.json', 'r') as f:
+ 
+    with open('./data/junyi/concept_difficulty.json', 'r') as f:
         concept_difficulty = json.load(f)
-
-
-
-    init_ques = df_test['concepts'].apply(lambda x: [int(i) for i in x.split(',')]).tolist()
-    init_ans = df_test['responses'].apply(lambda x: [int(i) for i in x.split(',')]).tolist()
-
-    init_diff = [
-        [(concept_difficulty.get(str(concept), None) * difficult_levels) for concept in concept_list]
-        for concept_list in init_ques
-    ]
-
-    lengths = [len(row) for row in init_ques]
-
-    max_len = max(len(row) for row in init_ques)  # 找到最长的行长度
-
-    # 用 0 填充较短的行，使得所有行长度相同
-    init_ques = [row + [0] * (max_len - len(row)) for row in init_ques]
-    init_ans = [row + [0] * (max_len - len(row)) for row in init_ans]
-    init_diff = [row + [0] * (max_len - len(row)) for row in init_diff]
-
-    init_h_q = init_ques
-    init_h_a = init_ans
-    init_h_diff = init_diff
-
-    init_q = init_ques
-    init_q = torch.tensor(init_q)
-    init_q = init_q.unsqueeze(0).to(device)
-    init_c = init_ques
-    init_c = torch.tensor(init_c)
-    init_c = init_c.unsqueeze(0).to(device)
-    init_sd = init_diff
-    init_sd = torch.tensor(init_sd)
-    init_sd = init_sd.unsqueeze(0).to(device).long()
-    init_qd = init_diff
-    init_qd = torch.tensor(init_qd)
-    init_qd = init_qd.unsqueeze(0).to(device).long()
-    init_a = init_ans
-    init_a = torch.tensor(init_a)
-    init_a = init_a.unsqueeze(0).to(device)
-
-    init_qshft = [[value + 1 for value in row] for row in init_ques]
-    init_qshft = torch.tensor(init_qshft)
-    init_qshft = init_qshft.unsqueeze(0).to(device)
-    init_cshft = [[value + 1 for value in row] for row in init_ques]
-    init_cshft = torch.tensor(init_cshft)
-    init_cshft = init_cshft.unsqueeze(0).to(device)
-    init_sdshft = [[value + 1 for value in row] for row in init_diff]
-    init_sdshft = torch.tensor(init_sdshft)
-    init_sdshft = init_sdshft.unsqueeze(0).to(device).long()
-    init_qdshft = [[value + 1 for value in row] for row in init_diff]
-    init_qdshft = torch.tensor(init_qdshft)
-    init_qdshft = init_qdshft.unsqueeze(0).to(device).long()
-
 
 
 
@@ -110,7 +55,7 @@ def train(env, Pre_agent, Sim_agent, Dif_agent, max_episode_num, batch_size, act
                   difficult_levels=difficult_levels)
 
 
-    student_num = len(df_concept_name)
+    student_num = len(datatex)
 
     best_cal = 0
 
@@ -124,39 +69,64 @@ def train(env, Pre_agent, Sim_agent, Dif_agent, max_episode_num, batch_size, act
         init_e = 0
         final_e = 0
         for index in tqdm.tqdm(range(student_num), desc="Student"):
-            target = (concept_df.loc[
-                          concept_df['concept'] == df_concept_name['selected_concept_name'][index], 'id'].values).astype(
-                int).tolist()
-
-            length = lengths[index]
-            q = init_q[:, index, :]
-            q = q[:, :length]
-            c = init_c[:, index, :]
-            c = c[:, :length]
-            sd = init_sd[:, index, :]
-            sd = sd[:, :length]
-            qd = init_qd[:, index, :]
-            qd = qd[:, :length]
-            a = init_a[:, index, :]
-            a = a[:, :length]
-
-            qshft = init_qshft[:, index, :]
-            qshft = qshft[:, :length]
-            cshft = init_cshft[:, index, :]
-            cshft = cshft[:, :length]
-
-            sdshft = init_sdshft[:, index, :]
-            sdshft = sdshft[:, :length]
-            qdshft = init_qdshft[:, index, :]
-            qdshft = qdshft[:, :length]
-
-            init_ques = init_h_q[index][:length]
-            init_diff = init_h_diff[index][:length]
-            init_ans = init_h_a[index][:length]
-
 
             _, init_profile = env.begin_episode()
+            init_log = list(init_profile.values())
+            init_ques, init_ans = zip(*init_log)
+            init_ques = list(map(int, init_ques))
+            init_ans = list(init_ans)
+            #
+            if set(init_ans) == {1}:
+                last_zero_index = len(init_ans) - 1
+            else:
+                last_zero_index = len(init_ans) - 1 - init_ans[::-1].index(0)
 
+            target = [init_ques[last_zero_index]]
+
+            init_diff = [(0.5 * difficult_levels if concept_difficulty.get(str(concept), None) is None
+                         else concept_difficulty.get(str(concept), None) * difficult_levels)
+                         for concept in init_ques]
+
+            datalog = ast.literal_eval(datatxt[index])
+
+            init_ques = [row[0] for row in datalog]
+            init_ans = [row[1] for row in datalog]
+
+            if set(init_ans) == {1}:
+                last_zero_index = len(init_ans) - 1
+            else:
+                last_zero_index = len(init_ans) - 1 - init_ans[::-1].index(0)
+
+            target = [init_ques[last_zero_index]]
+
+            init_diff = [(concept_difficulty.get(str(concept), None) * difficult_levels) for concept in init_ques]
+
+            init_q = torch.tensor(init_ques)
+            init_q = init_q.unsqueeze(0).to(device)
+            init_sd = torch.tensor(init_diff)
+            init_sd = init_sd.unsqueeze(0).to(device).long()
+            init_a = torch.tensor(init_ans)
+            init_a = init_a.unsqueeze(0).to(device)
+
+            init_qshft = [value + 1 for value in init_ques]
+            init_qshft = torch.tensor(init_qshft)
+            init_qshft = init_qshft.unsqueeze(0).to(device)
+
+            init_sdshft = [value + 1 for value in init_diff]
+            init_sdshft = torch.tensor(init_sdshft)
+            init_sdshft = init_sdshft.unsqueeze(0).to(device).long()
+
+            q = init_q
+            c = init_q
+            sd = init_sd
+            qd = init_sd
+            a = init_a
+
+            qshft = init_qshft
+            cshft = init_qshft
+
+            sdshft = init_sdshft
+            qdshft = init_sdshft
 
 
             KT = Agent_KT()
