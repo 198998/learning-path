@@ -24,9 +24,9 @@ To run this project, the following software and libraries are required:
      python -m graphrag.index --root ./ragtest
      ```
      
-2. To run the DLRL module:
+2. To run the KnowLP module:
    
-   Navigate to the DLRL folder and execute the following command:
+   Navigate to the KnowLP folder and execute the following command:
 
    ```bash
    python DLELP.py
